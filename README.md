@@ -14,11 +14,13 @@ Software Developer from Japan.
 
 ## 📈 GitHub Analytics
 
-[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/master/profile-summary-card-output/nord_dar/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/master/profile-summary-card-output/nord_dar/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/master/profile-summary-card-output/nord_dar/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KouichiItagaki&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Tech Stack
 
