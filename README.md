@@ -48,6 +48,18 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-Stripe-333.svg?style=flat&logo=stripe)
 ![](https://img.shields.io/badge/-VSCode-333.svg?style=flat&logo=visual-studio-code)
 
+## 👑 Certification
+
+</a>
+<a href="https://www.youracclaim.com/earner/earned/badge/c7983310-2e54-45a1-9101-3e564a42983a">
+<img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/107533438-48ad8d80-6c02-11eb-9b50-7589e676af34.png" alt="AWS Solutions Architect Associate" />
+</a>
+<a href="https://www.youracclaim.com/earner/earned/badge/c7983310-2e54-45a1-9101-3e564a42983a">
+<img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/107533577-6aa71000-6c02-11eb-8de6-0e86c7567b90.png" alt="AWS Developer Associate" />
+ </a>
+<a href="https://www.youracclaim.com/earner/earned/badge/c7983310-2e54-45a1-9101-3e564a42983a">
+<img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/107533698-88747500-6c02-11eb-886a-e52abb337b52.png" alt="AWS SysOps" />
+</a>
 
 ## 🤝🏻  Connect with Me
 
