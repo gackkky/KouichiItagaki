@@ -14,7 +14,7 @@ Software Developer from Japan.
 
 ## 📈 GitHub Analytics
 
-[![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/master/profile-summary-card-output/nord_dar/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/moritamori/KouichiItagaki/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/KouichiItagaki/KouichiItagaki/master/profile-summary-card-output/nord_dar/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
