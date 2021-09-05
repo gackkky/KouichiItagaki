@@ -29,6 +29,7 @@ Software Developer from Japan.
 <!-- Language -->
 
 ![](https://img.shields.io/badge/-Ruby-333.svg?style=flat&logo=ruby)
+![](https://img.shields.io/badge/-Go-333.svg?style=flat&logo=go)
 ![](https://img.shields.io/badge/-JavaScript-333.svg?style=flat&logo=javascript)
 
 <!-- Framework, Library -->
