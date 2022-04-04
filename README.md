@@ -56,6 +56,10 @@ Software Developer from Japan.
 <a href="https://www.youracclaim.com/earner/earned/badge/c7983310-2e54-45a1-9101-3e564a42983a">
 <img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/107533698-88747500-6c02-11eb-886a-e52abb337b52.png" alt="AWS SysOps" />
 </a>
+ </a>
+<a href="https://www.youracclaim.com/earner/earned/badge/c7983310-2e54-45a1-9101-3e564a42983a">
+<img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/161494708-adf7f3b2-b896-4c79-b2d0-8260f1a97f14.png" alt="AWS-Security-Specialty" />
+</a>
 
 ## 🤝🏻  Connect with Me
 
