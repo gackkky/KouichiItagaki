@@ -63,6 +63,6 @@ Software Developer from Japan.
 
 ## 🤝🏻  Connect with Me
 
-<a href="https://twitter.com/KOUICH1039" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/_penguin_vv_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 <a href="https://qiita.com/Kouichi_Itagaki" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
