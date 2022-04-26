@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hi there! I'm ita-k.
+# 👋 Hi there! I'm KouichiItagaki.
 
 ## About Me
 
