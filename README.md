@@ -65,4 +65,4 @@ Software Developer from Japan.
 
 <a href="https://twitter.com/_ita_k_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-<a href="https://qiita.com/Kouichi_Itagaki" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
+<a href="https://qiita.com/ita-k" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
