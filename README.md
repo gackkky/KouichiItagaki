@@ -31,10 +31,14 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-Ruby-333.svg?style=flat&logo=ruby)
 ![](https://img.shields.io/badge/-Go-333.svg?style=flat&logo=go)
 ![](https://img.shields.io/badge/-JavaScript-333.svg?style=flat&logo=javascript)
+<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
+
 
 <!-- Framework, Library -->
 
 ![](https://img.shields.io/badge/-Ruby%20on%20Rails-333.svg?style=flat&logo=ruby-on-rails)
+<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+
 
 <!-- Dev Tool -->
 
