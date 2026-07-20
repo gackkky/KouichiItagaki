@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/gackkky/KouichiItagaki/master/profile-summary-card-output/darcula/4-productive-time.svg)
-```
-
-    

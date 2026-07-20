@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/gackkky/KouichiItagaki/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
